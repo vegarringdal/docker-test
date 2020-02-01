@@ -1,7 +1,7 @@
 {
   "name": "docker-test",
   "version": "1.0.0",
-  "description": "docker-test nging x stream",
+  "description": "docker-test nginx",
   "author": "Vegar Ringdal <vegar.ringdal@gmail.com>",
   "license": "MIT",
   "scripts": {
